@@ -5,6 +5,7 @@
 module:testrunner
 
 GET     /                                       App.Index
+POST    /upload                                 Upload.Do
 
 # Ignore favicon requests
 GET     /favicon.ico                            404

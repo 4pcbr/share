@@ -1,3 +1,4 @@
-test-results/
-tmp/
-routes/
+*.swp
+db/config.json
+conf/app.conf
+test-results/*
